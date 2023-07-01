@@ -42,10 +42,10 @@ name = "Categories"
 url = "/categories"
 
 [params.giscus]
-repo = "hotjuicew/blog"
-repoID = "R_kgDOHHQOuw"
+repo = "megaariii/megs-blog"
+repoID = "R_kgDOJ2ZhgA"
 category = "Announcements"
-categoryID = "DIC_kwDOHHQOu84CWCQ3"
+categoryID = "DIC_kwDOJ2ZhgM4CXmfs"
 mapping = "og:title"
 reactionsEnabled = "1"
 emitMetadata = "0"
