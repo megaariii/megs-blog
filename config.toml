@@ -2,7 +2,7 @@ baseURL = 'https://juicebar-demo.add1.dev/'
 languageCode = 'en'
 # languageCode = 'zh-CN'
 theme = "JuiceBar"
-title = "Meg's Blogs"
+title = "Meg's Blog"
 
 [params]
 author = "megaariii"
