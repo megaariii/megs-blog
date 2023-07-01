@@ -18,11 +18,14 @@ imageUrl = "/images/home.jpg"
 name = "Github"
 url = "https://github.com/megaariii"
 [[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/megaari"
+[[params.social]]
 name = "instagram"
 url = "https://instagram.com/megaariii"
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/megaariii"
+# [[params.social]]
+# name = "twitter"
+# url = "https://twitter.com/megaariii"
 [[params.social]]
 name = "email"
 url = "mailto:mega.ari186@gmail.com"
